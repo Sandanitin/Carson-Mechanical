@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router-dom'
+import { Routes, Route, Link } from 'react-router-dom'
 import { Helmet } from 'react-helmet-async'
 import Header from './components/Header.jsx'
 import Footer from './components/Footer.jsx'
@@ -44,9 +44,9 @@ export default function App() {
         </Routes>
       </main>
       <Footer />
-      <a href="/contact" className="fixed bottom-4 right-4 md:hidden inline-flex items-center justify-center rounded-full bg-primary text-white font-semibold shadow-lg px-5 py-3">
+      <Link to="/contact" className="fixed bottom-4 right-4 md:hidden inline-flex items-center justify-center rounded-full bg-primary text-white font-semibold shadow-lg px-5 py-3">
         Get an Estimate
-      </a>
+      </Link>
     </div>
   )
 }

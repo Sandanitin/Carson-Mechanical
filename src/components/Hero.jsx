@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom'
 import content from '../content/site.json'
 
 export default function Hero() {
@@ -21,8 +22,8 @@ export default function Hero() {
             <h1 className="mt-3 text-4xl md:text-6xl font-extrabold text-white tracking-tight drop-shadow">{content.home.heroTitle}</h1>
             <p className="mt-4 text-white/90 max-w-3xl leading-relaxed">{content.home.heroSubtitle}</p>
             <div className="mt-7 flex items-center gap-3">
-              <a href="/contact" className="inline-flex items-center rounded-md bg-primary px-6 py-3 text-white font-semibold shadow-lg hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-primary">Get an Estimate</a>
-              <a href="/services" className="inline-flex items-center rounded-md bg-white/15 px-6 py-3 text-white font-semibold ring-1 ring-white/30 hover:bg-white/25">Our Services</a>
+              <Link to="/contact" className="inline-flex items-center rounded-md bg-primary px-6 py-3 text-white font-semibold shadow-lg hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-primary">Get an Estimate</Link>
+              <Link to="/services" className="inline-flex items-center rounded-md bg-white/15 px-6 py-3 text-white font-semibold ring-1 ring-white/30 hover:bg-white/25">Our Services</Link>
             </div>
           </div>
         </div>

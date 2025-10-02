@@ -1,5 +1,6 @@
 import { Helmet } from 'react-helmet-async'
 import { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom'
 import Hero from '../components/Hero.jsx'
 import ServicesCard from '../components/ServicesCard.jsx'
 import ProjectGallery from '../components/ProjectGallery.jsx'
@@ -64,8 +65,8 @@ export default function Home(){
                 ))}
               </div>
               <div className="mt-6 flex items-center gap-3">
-                <a href="/services" className="inline-flex items-center rounded-md bg-secondary px-4 py-2 text-white font-semibold shadow hover:bg-[#003567]">Explore Services</a>
-                <a href="/contact" className="inline-flex items-center rounded-md bg-primary px-4 py-2 text-white font-semibold shadow hover:bg-blue-600">Get an Estimate</a>
+                <Link to="/services" className="inline-flex items-center rounded-md bg-secondary px-4 py-2 text-white font-semibold shadow hover:bg-[#003567]">Explore Services</Link>
+                <Link to="/contact" className="inline-flex items-center rounded-md bg-primary px-4 py-2 text-white font-semibold shadow hover:bg-blue-600">Get an Estimate</Link>
               </div>
             </div>
           </div>
@@ -101,7 +102,7 @@ export default function Home(){
               ))}
             </ul>
             <div className="mt-6">
-              <a href="/contact" className="inline-flex items-center rounded-md bg-primary px-5 py-2.5 text-white font-semibold shadow hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-primary">Get an Estimate</a>
+              <Link to="/contact" className="inline-flex items-center rounded-md bg-primary px-5 py-2.5 text-white font-semibold shadow hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-primary">Get an Estimate</Link>
             </div>
           </div>
         </div>
