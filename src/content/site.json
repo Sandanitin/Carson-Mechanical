@@ -1,0 +1,136 @@
+{
+  "seo": {
+    "brand": "Carson Mechanical",
+    "defaultTitle": "Carson Mechanical — HEATING • AIR CONDITIONING • REFRIGERATION • SHEET METAL FABRICATION",
+    "defaultDescription": "We provide heating, air conditioning, refrigeration, and sheet metal fabrication services for commercial and residential clients.",
+    "ogImage": "/favicon.svg"
+  },
+  "video": {
+    "title": "On the job",
+    "description": "A quick look at HVAC Wet & Dry work in action.",
+    "src": "https://cdn.coverr.co/videos/coverr-hvac-maintenance-7251/1080p.mp4",
+    "poster": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?q=80&w=1600&auto=format&fit=crop",
+    "durationSec": 20
+  },
+  "organization": {
+    "name": "Carson Mechanical",
+    "url": "https://www.carsonmechanical.com",
+    "logo": "/favicon.svg",
+    "email": "services@carsonmechanical.com",
+    "telephone": "+19169203733",
+    "fax": "+19169205214",
+    "license": "LIC# 998103",
+    "address": {
+      "streetAddress": "120 Main Ave., Ste. G",
+      "addressLocality": "Sacramento",
+      "addressRegion": "CA",
+      "postalCode": "95838",
+      "addressCountry": "US"
+    }
+  },
+  "home": {
+    "title": "WET & DRY HVAC",
+    "heroTitle": "WET & DRY HVAC",
+    "heroSubtitle": "YOUR WET & DRY HVAC NEEDS ARE MET WITH US. WE STRIVE TO GET OUR JOBS DONE ON TIME AND ON BUDGET SO THAT EVERY PROJECT YOU UNDERTAKE WILL BE A SUCCESS.",
+    "description": "Reliable HVAC Wet & Dry services with expert installation and preventative maintenance.",
+    "intro": "SERVICES WE PROVIDE — Looking for a capable, experienced, and personable mechanical contractor to complement your construction team? Do you need help refining your design? Do you want help evaluating your design for cost savings? Find out how we can help with some of our HVAC services listed below:",
+    "services": [
+      { "title": "Installation", "description": "Professional installation of commercial and residential HVAC systems." },
+      { "title": "Maintenance", "description": "Scheduled maintenance to maximize efficiency and equipment life." },
+      { "title": "Repairs", "description": "Responsive diagnostics and repairs for HVAC Wet & Dry systems." }
+    ],
+    "feature": {
+      "title": "Why choose Carson Mechanical",
+      "body": "We deliver end-to-end HVAC Wet & Dry solutions—design, build, and maintain—so your projects stay on schedule and on budget. Our seasoned team prioritizes safety, quality, and reliable communication at every step.",
+      "bullets": [
+        "On-time, on-budget delivery",
+        "Design/assist and value engineering",
+        "Certified technicians and documented QA",
+        "Preventative maintenance programs"
+      ],
+      "image": {
+        "src": "/images/Air conditioning installation.jpg",
+        "alt": "Professional air conditioning installation by Carson Mechanical technicians"
+      }
+    },
+    "feature2": {
+      "title": "Built for construction teams",
+      "body": "From preconstruction through commissioning, we integrate with your GC and trades to deliver transparent schedules, clear RFIs, and dependable turnover documentation.",
+      "bullets": [
+        "Coordinated BIM and shop drawings",
+        "Proactive RFIs and field coordination",
+        "Commissioning and turnover packages",
+        "Closeout support and training"
+      ],
+      "image": {
+        "src": "/images/hero1.jpg",
+        "alt": "Professional construction team ready for HVAC installation — Carson Mechanical"
+      }
+    },
+    "testimonials": [
+      { "quote": "Professional, timely, and communicative throughout the project.", "author": "Project Manager, Commercial GC" },
+      { "quote": "Their maintenance program drastically reduced our downtime.", "author": "Facilities Director, Manufacturing" },
+      { "quote": "Great partner for design/assist and value engineering.", "author": "Owner's Rep" }
+    ],
+    "stats": [
+      { "label": "Projects delivered", "value": "250+" },
+      { "label": "Years experience", "value": "15+" },
+      { "label": "Planned uptime", "value": "99.5%" }
+    ]
+  },
+  "about": {
+    "description": "Carson Mechanical delivers HVAC Wet & Dry projects with safety, quality, and reliability at the core.",
+    "mission": "Provide efficient, long-lasting HVAC systems paired with attentive service.",
+    "values": ["Safety", "Quality workmanship", "Reliability", "Integrity"],
+    "projectsIntro": "Our team has completed a breadth of HVAC Wet & Dry installations across commercial and residential sites."
+  },
+  "services": {
+    "description": "Looking for a capable, experienced, and personable mechanical contractor to complement your construction team? Need help refining your design or evaluating for cost savings? Explore our HVAC services below.",
+    "installations": "Turnkey installations for rooftop units, split systems, VRF/VRV, boilers, and pumps.",
+    "maintenance": "Preventative maintenance programs to ensure uptime and energy efficiency.",
+    "wet": "Hydronic systems: boilers, pumps, heat exchangers, chilled and hot water loops.",
+    "dry": "Airside systems: air handlers, ductwork, filtration, ventilation, and controls.",
+    "equipment": ["Rooftop units", "VRF/VRV systems", "Chillers & boilers", "Pumps & heat exchangers", "Air handlers & ductwork"],
+    "features": [
+      "Design/Build",
+      "Plan & Spec",
+      "Design/Assist",
+      "Air Handlers",
+      "Exhaust Systems",
+      "Ductwork Fabrication & Installation",
+      "Hydronic Systems",
+      "Chillers",
+      "Boilers",
+      "Cooling Towers",
+      "Refrigerant Piping",
+      "Radiant Heating",
+      "VRV/VRF Systems"
+    ],
+    "areas": "Greater Metro Area and surrounding regions.",
+    "warranty": "Manufacturer warranties honored with workmanship guarantee."
+  },
+  "contact": {
+    "description": "Request an estimate or schedule service. Our team responds promptly."
+  },
+  "images": {
+    "hero": [
+      { "src": "/images/hero1.jpg", "alt": "Commercial HVAC rooftop units installation — Carson Mechanical professional services" },
+      { "src": "/images/hero2.jpg", "alt": "HVAC technician servicing air conditioning unit — Carson Mechanical expert maintenance" },
+      { "src": "/images/hero3.jpg", "alt": "Professional HVAC team ready for commercial installation — Carson Mechanical skilled workforce" }
+    ],
+    "gallery": [
+      { "src": "/images/Air conditioning installation.jpg", "alt": "Air conditioning installation — Carson Mechanical" },
+      { "src": "/images/Ductwork inspection.jpg", "alt": "Ductwork inspection — Carson Mechanical" },
+      { "src": "/images/Commercial HVAC system.jpg", "alt": "Commercial HVAC system — Carson Mechanical" },
+      { "src": "/images/Hydronic boiler room.jpg", "alt": "Hydronic boiler room — Carson Mechanical" },
+      { "src": "/images/Technician brazing refrigerant lines.jpg", "alt": "Technician brazing refrigerant lines — Carson Mechanical" }
+    ],
+    "service": [
+      { "src": "/images/Air conditioning installation.jpg", "alt": "Rooftop unit maintenance — Carson Mechanical" },
+      { "src": "/images/Ductwork inspection.jpg", "alt": "Technician inspecting air handler — Carson Mechanical" },
+      { "src": "/images/Commercial HVAC system.jpg", "alt": "Technician installing condenser — Carson Mechanical" }
+    ]
+  }
+}
+
+
